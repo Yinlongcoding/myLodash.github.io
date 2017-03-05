@@ -1,2 +1,3 @@
-# myLodash.github.io
-Implement the Lodash code
+# 初步达成 "图灵完全" 实现 Lodash 方法  
+
+## 函数文档已经书写，一下格式为 方法-作用
